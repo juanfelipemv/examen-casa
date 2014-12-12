@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1418357124 source:c:\users\juan felipe\desktop\codeblock proyects\buscaminas\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
